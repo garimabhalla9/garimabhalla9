@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Garima Bhalla</h1>
+<h2 align="center">Hello World👋, I'm Garima</h2>
 <h3 align="center">A passionate Full Stack Developer | MERN stack | Tech-enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garimabhalla9&label=Profile%20views&color=0e75b6&style=flat" alt="garimabhalla9" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me  🔗</h3>
 <p align="left">
 <a href="https://codepen.io/garima-codepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="garima-codepen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/garimabhalla9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garima bhalla" height="30" width="40" /></a>
