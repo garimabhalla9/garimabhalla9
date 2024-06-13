@@ -18,7 +18,7 @@ const garima = {
   code: [Javascript, HTML, CSS, Java, C++],
   tools: [React, Node, Styled-Components],
   hobbies: {
-               'Playing Chess',
+               'Playing Badminton',
                'Reading Novels'
                'Being up all Night chasing that ONE BUG...'
            },
