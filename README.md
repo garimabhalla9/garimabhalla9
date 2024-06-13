@@ -38,4 +38,6 @@ challenge: "I am doing the #100DaysOfCode challenge focused on react and nextjs"
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garimabhalla9&show_icons=true&locale=en&theme=dracula&layout=compact" alt="garimabhalla9" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garimabhalla9&" alt="garimabhalla9" /></p>
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
