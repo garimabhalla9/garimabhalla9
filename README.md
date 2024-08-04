@@ -15,13 +15,8 @@ const garima = {
   askMeAbout: ["web dev", "tech", "Designing"],
   code: [Javascript, HTML, CSS, Java, C++],
   tools: [React, Node, Styled-Components],
-  hobbies: {
-               'Playing Badminton',
-               'Reading Novels'
-               'Being up all Night chasing that ONE BUG...'
-           },
-
-challenge: "I am doing the #100DaysOfCode challenge focused on react and nextjs"
+  
+challenge: Currently being focused on spring, springboot and react"
 }
 ```
 </p>
