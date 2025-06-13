@@ -9,7 +9,8 @@
 <h3 align="left">Connect with me  🔗</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garimabhalla9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garima bhalla" height="30" width="40" /></a> 
-          [<img src="desktop/images/gmail_logo.png" alt="Gmail" width="20" height="20" />](mailto:your_email@gmail.com)
+
+<a href="mailto:garimabhalla2003@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   ### A little more about me! 🧟‍♂️ 
 
