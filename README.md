@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Garima👋 </h2>
-<h3 align="left">A passionate Full Stack Developer!</h3>
-<h4 align="center">An enthusiastic developer with expertise in the MERN stack and a strong foundation in computer programming, I specialize in transforming innovative ideas into resilient, user-centric applications. Eager to contribute to dynamic environments, I look forward to collaborating on impactful solutions. </h4>
+<h3 align="center">A passionate Full Stack Developer!</h3>
+<h4 align="left">An enthusiastic developer with expertise in the MERN stack and a strong foundation in computer programming, I specialize in transforming innovative ideas into resilient, user-centric applications. Eager to contribute to dynamic environments, I look forward to collaborating on impactful solutions. </h4>
 
 
 
