@@ -15,7 +15,7 @@ const garima = {
   code: [Javascript, HTML, CSS, Java, C++],
   tools: [React, Node, Styled-Components],
   
-challenge: Currently being focused on springboot and react"
+challenge: Currently being focused on springboot and angular.js"
 }
 ```
 </p>
